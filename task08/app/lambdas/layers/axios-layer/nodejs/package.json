@@ -1,11 +1,13 @@
 {
-  "name": "api_handler",
+  "name": "nodejs",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "axios": "^1.7.7"
   }
