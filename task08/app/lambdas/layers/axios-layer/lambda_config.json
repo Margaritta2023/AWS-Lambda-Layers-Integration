@@ -4,5 +4,5 @@
   "runtimes": [
     "nodejs20.x"
   ],
-  "deployment_package": "axios-layer_layer.zip"
+  "deployment_package": "axios-layer.zip"
 }
